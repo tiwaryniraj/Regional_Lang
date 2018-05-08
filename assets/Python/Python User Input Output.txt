@@ -1,0 +1,4 @@
+Please enter name : Tim
+Please enter age: 25
+Hello  Tim
+Your age is :  25

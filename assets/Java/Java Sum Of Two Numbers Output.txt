@@ -1,0 +1,5 @@
+Enter first number
+12
+Enter second number
+7
+Sum is : 19

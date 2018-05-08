@@ -1,0 +1,4 @@
+Object is being created
+Full Name : Thomas Gates
+Age : 25
+Object is being deleted

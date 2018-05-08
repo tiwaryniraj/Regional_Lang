@@ -1,0 +1,5 @@
+abcdz
+zdcba
+think
+substring found at 2 or 2
+abcdzxyz

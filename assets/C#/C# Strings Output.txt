@@ -1,0 +1,5 @@
+Full Name: ThomasGates
+Message : Hello World
+Message: Hello World
+String Length : 11
+Substring Example: World

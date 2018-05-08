@@ -1,0 +1,3 @@
+Name : Thomas  Gates
+Age : 25
+Score : 12.75

@@ -1,0 +1,5 @@
+Reverse of 12345 :  54321
+Reverse of 1947 :  7491
+Reverse of 4321 :  1234
+Reverse of 24689 :  98642
+Reverse of 76543 :  34567

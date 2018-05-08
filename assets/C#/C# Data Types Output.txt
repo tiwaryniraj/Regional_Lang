@@ -1,0 +1,5 @@
+num : 12
+ch : a
+fl : 12.75
+name : Tim
+val : True

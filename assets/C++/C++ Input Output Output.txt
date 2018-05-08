@@ -1,0 +1,5 @@
+Enter a number : 12
+Entered number : 12
+
+Enter your name : Tim
+Tim

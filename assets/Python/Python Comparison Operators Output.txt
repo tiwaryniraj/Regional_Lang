@@ -1,0 +1,5 @@
+a is not equal to b.
+a is not greater than b.
+a is less than b.
+a is neither greater than nor equal to b.
+a is less than or equal to b.

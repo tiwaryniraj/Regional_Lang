@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  
+    <style>
+        /* It  matches all elements that are descendants of a specified element. */
+        div p {
+            background-color: orange;
+        }
+      
+        /* selects all elements that are siblings of a specified element. */
+        div ~ p {
+            background-color: yellow;
+        }
+      
+        /* selects all elements that are the adjacent siblings of a specified element. */
+        div + p {
+            background-color: lightgreen;
+        }
+    </style>
+  
+</head>
+
+<body>
+
+    <div>
+        <p> Paragraph 1. </p>
+        <p> Paragraph 2. </p>
+        <span> <p> Paragraph 3. </p> </span>
+    </div>
+
+    <p> Paragraph 4. </p>
+    <p> Paragraph 5. </p>
+
+</body>
+
+</html>

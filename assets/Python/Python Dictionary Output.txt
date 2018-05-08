@@ -1,0 +1,8 @@
+dict['Name']:  Tim
+dict['Age']:  30
+dict['Place']:  Earth
+dict (after update) :  {'Age': 30, 'Place': 'Pluto', 'Name': 'Tim'}
+dict (after deletion of an entry) :  {'Place': 'Pluto', 'Name': 'Tim'}
+String representation :  {'Place': 'Pluto', 'Name': 'Tim'}
+All keys :  ['Place', 'Name']
+All values :  ['Pluto', 'Tim']

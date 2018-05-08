@@ -1,0 +1,10 @@
+sum : 19
+diff : 5
+div : 5
+rem : 5
+afterIncrement : 12
+afterDecrement : 13
+a&b : 4
+a|b : 15
+~a : -13
+a<<b : 1536

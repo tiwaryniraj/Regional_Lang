@@ -1,0 +1,2 @@
+Value : 12
+Memory Address : 2686728

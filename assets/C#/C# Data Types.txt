@@ -1,0 +1,24 @@
+using System;
+namespace DataTypesApplication {
+
+ class Program {
+  static void Main(string[] args) {
+   int num = 12;
+   Console.WriteLine("num : {0}", num);
+
+   char ch = 'a';
+   Console.WriteLine("ch : {0}", ch);
+
+   float fl = 12.75f;
+   Console.WriteLine("fl : {0}", fl);
+
+   string name = "Tim";
+   Console.WriteLine("name : {0}", name);
+
+   bool val = true;
+   Console.WriteLine("val : {0}", val);
+
+  }
+
+ }
+}

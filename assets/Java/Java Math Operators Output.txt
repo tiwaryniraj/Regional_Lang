@@ -1,0 +1,2 @@
+Remainder is :3
+Division result is (in float) : 2.5

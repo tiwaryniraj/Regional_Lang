@@ -1,0 +1,2 @@
+a is less than 100
+value of a is : 50

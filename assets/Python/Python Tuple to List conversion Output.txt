@@ -1,0 +1,1 @@
+List elements are :  [1, 2, 3, 'Learn', 'Python']

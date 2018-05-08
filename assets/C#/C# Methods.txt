@@ -1,0 +1,20 @@
+using System;
+namespace MyApplication {
+
+ class SumCalculation {
+
+  int sumOfTwoNumbers(int a, int b) {
+   int sum = a + b;
+   return sum;
+  }
+
+  static void Main(string[] args) {
+
+   SumCalculation obj = new SumCalculation();
+   int sum = obj.sumOfTwoNumbers(12, 7);
+   Console.WriteLine("Sum : {0}", sum);
+
+  }
+
+ }
+}

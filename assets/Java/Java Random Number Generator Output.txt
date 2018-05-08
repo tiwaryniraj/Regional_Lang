@@ -1,0 +1,6 @@
+5 Random numbers ( max range = 50 ) :
+43
+8
+37
+43
+4

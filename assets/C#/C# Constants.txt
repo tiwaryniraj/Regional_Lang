@@ -1,0 +1,17 @@
+using System;
+namespace ConstantsExample {
+
+ class Program {
+  static void Main(string[] args) {
+
+   const int length = 12;
+   const int breadth = 7;
+
+   int area = length * breadth;
+
+   Console.WriteLine("Area : {0}", area);
+
+  }
+
+ }
+}

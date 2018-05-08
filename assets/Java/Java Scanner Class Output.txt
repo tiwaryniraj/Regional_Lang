@@ -1,0 +1,6 @@
+Enter your name
+Abc
+Enter your age
+22
+Hello Abc
+Your age is 22

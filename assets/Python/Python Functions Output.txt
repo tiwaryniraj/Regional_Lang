@@ -1,0 +1,4 @@
+Sum is :  19
+Hello  Tim , how are you?
+Name :  Tim , Age :  25
+Name :  Tim , Age :  30

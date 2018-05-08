@@ -1,0 +1,32 @@
+using System;
+namespace MyApplication {
+
+ class Program {
+
+  static void Main(string[] args) {
+
+   string firstName, lastName;
+   firstName = "Thomas";
+   lastName = "Gates";
+
+   string fullName = firstName + lastName;
+   Console.WriteLine("Full Name: {0}", fullName);
+
+   char[] hello = { 'H', 'e', 'l', 'l','o',' ','W','o','r','l','d' };
+   
+   string helloAgain = new string(hello);
+   Console.WriteLine("Message : {0}", helloAgain);
+
+   string[] arr = { "Hello", "World" };
+   
+   string helloMessage = String.Join(" ", arr);
+   Console.WriteLine("Message: {0}", helloMessage);
+
+   Console.WriteLine("String Length : {0}", helloMessage.Length.ToString());
+
+   Console.WriteLine("Substring Example: {0}", helloMessage.Substring(6));
+
+  }
+
+ }
+}

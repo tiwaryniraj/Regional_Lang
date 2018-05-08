@@ -1,0 +1,6 @@
+Sum is :  19
+Difference is :  5
+Product is :  84
+Quotient is :  1
+Remainder is :  5
+3^2 =  9
